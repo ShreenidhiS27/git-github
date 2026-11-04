@@ -1,1 +1,3 @@
 I am shreenidhi
+
+OCR means Optical Character Recognition. It extracts text from images and screenshots.
